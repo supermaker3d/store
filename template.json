@@ -1,6 +1,6 @@
 {
-  "name": "Super Smash Aeugh Web",
-  "icon": "https://cdn.discordapp.com/attachments/880568849085374504/945988898406953000/pufferfish.png",
+  "name": "Powerpoint",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png",
   "type": "app",
   "data": {
     "type": "IFrame",
@@ -14,5 +14,7 @@
     "feat": "Users on the site, called Scratchers, can create projects on the website using a block-like interface."
   },
   "url": "https://melonicoverlord.github.io/aeughweb/",
-  "Type": "game"
+  "Type": "game",
+  "data, url": "https://app.deckdeckgo.com/",
+  "data, Type": "app"
 }
